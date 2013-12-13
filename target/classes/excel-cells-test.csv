@@ -1,0 +1,6 @@
+
+//data for the tests only
+cows,0,d4,number,input
+area,0,d5,number,input
+energy,0,d50,formula, output
+biogas,0,d74,formula, output
